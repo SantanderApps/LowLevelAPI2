@@ -1,0 +1,12 @@
+{
+	"name": "SantanderApps/LowLevelAPI2",
+	"description": "Second generation of the Low Level API used within our PHP payment gateways.",
+	"require": {
+		"php": ">=5.5.0"
+	},
+	"autload": {
+		"psr-0": {
+			"Santander\\LowLevelAPI": "src"
+		}
+	}
+}
