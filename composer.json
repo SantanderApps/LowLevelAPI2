@@ -5,7 +5,7 @@
 		"php": ">=5.5.0"
 	},
 	"autload": {
-		"psr-0": {
+		"psr-4": {
 			"Santander\\LowLevelAPI": "src"
 		}
 	}
