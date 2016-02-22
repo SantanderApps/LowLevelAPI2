@@ -6,7 +6,7 @@
 	},
 	"autoload": {
 		"psr-4": {
-			"Santander\\LowLevelAPI": "src"
+			"Santander\\LowLevelAPI\\": "src"
 		}
 	}
 }
